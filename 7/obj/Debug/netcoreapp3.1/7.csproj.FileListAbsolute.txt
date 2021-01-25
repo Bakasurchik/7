@@ -1,0 +1,4 @@
+F:\универ\2 курс\ТиМП\Лабы\7\7\7\obj\Debug\netcoreapp3.1\7.csprojAssemblyReference.cache
+F:\универ\2 курс\ТиМП\Лабы\7\7\7\obj\Debug\netcoreapp3.1\7.AssemblyInfoInputs.cache
+F:\универ\2 курс\ТиМП\Лабы\7\7\7\obj\Debug\netcoreapp3.1\7.AssemblyInfo.cs
+F:\универ\2 курс\ТиМП\Лабы\7\7\7\obj\Debug\netcoreapp3.1\7.csproj.CoreCompileInputs.cache
